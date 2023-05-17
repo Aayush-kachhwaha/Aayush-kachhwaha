@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Flutter, React Js** From YouTube & Udemy.
 
 
-- 📫 How to reach me **aayushk2609@gmail.com**
+- 📫 How to reach me **aayushk2609@gmail.com**, **aayush.kachhwaha2020@vitbhoal.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
