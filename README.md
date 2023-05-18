@@ -88,11 +88,26 @@ Here are some ideas to get you started:
 </p>
 <!-- Add the the power bi and the cisco packet rtacher img and the icone -->
 
+
+## 📊 GitHub Activity
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayush-kachhwaha&show_icons=true&locale=en&layout=compact" alt="aayush-kachhwaha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayush-kachhwaha&show_icons=true&locale=en" alt="aayush-kachhwaha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-kachhwaha&" alt="aayush-kachhwaha" /></p>
+
+## 📈 GitHub Contribution Graph
+
+<hr>
+
+[![aayush kachhwaha github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aayush-kachhwaha&theme=github)](https://github.com/aayush-kachhwaha/github-readme-activity-graph)
+
+<hr>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 
 
