@@ -11,7 +11,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center">
-  <img src="coding.gif" align="center" width="90%" />
+  <img src = "coding.gif" align = "center" width = "90%" />
+
 </p>
 
 <!--
