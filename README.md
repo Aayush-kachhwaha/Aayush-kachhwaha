@@ -12,8 +12,15 @@
 
 <p align="center">
   <img src = "coding.gif" align = "center" width = "90%" />
-
 </p>
+
+<p align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=aayush-kachhwaha&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+</p>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 <!--
 Here are some ideas to get you started:
@@ -32,21 +39,31 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
--🔭 I am currently Pursuing My B.Tech in the Computer Science & Engineering 
+-🔭 I am currently Pursuing My **B.Tech** in the Computer Science & Engineering 
  
 
-- 🌱 I’m currently learning 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/> 
- 
-- **Flutter, React Js** From YouTube & Udemy.
+- 🌱 I’m currently learning **Flutter, React Js** From YouTube & Udemy.
 
 
-- 📫 How to reach me **aayushk2609@gmail.com**, **aayush.kachhwaha2020@vitbhoal.ac.in**
-
-
+- 📫 You can reach me at **aayushk2609@gmail.com**, **aayush.kachhwaha2020@vitbhoal.ac.in**
 
 
 </p>
+ 
+<hr>
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
+</h3>
+<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-aayush-kachhwaha&&style=flat-square&color=22CCB2">
+<hr>
+<br>
+<div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayush-kachhwaha&theme=2077"  display=block width=100% height=auto  alt="1" >
+</div>
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
  
  ## 🤝 Connect with me:
 
@@ -76,3 +93,21 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayush-kachhwaha&show_icons=true&locale=en" alt="aayush-kachhwaha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-kachhwaha&" alt="aayush-kachhwaha" /></p>
+
+
+
+### <p align="center">🎡 Welcome To the World of Coding! </p>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" align="center" width="100%">
+</h3>
+
+<hr>
+
+<h2 align="center">☺𝑻𝒉𝒂𝒏𝒌 𝒚𝒐𝒖 𝒇𝒐𝒓 seeing the profile 😉</h2>
+
+<hr>
+ 
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
