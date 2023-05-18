@@ -64,20 +64,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
- 
- ## 🤝 Connect with me:
-
-<p align="left">
-<a href="https://discord.com/users/1097215506504757330" target="blank"><img align="center" src="https://user-images.githubusercontent.com/126944196/235486646-e79b6c1f-ef18-4f87-a6eb-cf302c7f972b.gif" alt="https://discord.com/users/1097215506504757330" height="56" width="54" />
-	</a>
-	
-<a href="https://www.linkedin.com/in/aayush-kachhwaha"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush-kachhwaha" height="30" width="40" /></a>
-<a href="https://instagram.com/aayush_____k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aayush_____k" height="30" width="40" /></a>
-</p>
-
-
-
-
  ## 💼 Technical Skills:
 
 <h3 align="left">Languages and Tools:</h3>
@@ -89,13 +75,33 @@ Here are some ideas to get you started:
 <!-- Add the the power bi and the cisco packet rtacher img and the icone -->
 
 
+<hr>
+<br>
+<div align="center">
+<img src="ConnectWithMe.png" align = "center"/>
+</div>
+<br>
+
+<p align="left">	
+<a href="https://www.linkedin.com/in/aayush-kachhwaha"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush-kachhwaha" height="50" width="50" /></a>          
+<a href="https://instagram.com/aayush_____k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aayush_____k" height="50" width="50" /></a>
+</p>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+
 ## 📊 GitHub Activity
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayush-kachhwaha&show_icons=true&locale=en&layout=compact" alt="aayush-kachhwaha" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayush-kachhwaha&show_icons=true&locale=en&layout=compact" alt="aayush-kachhwaha" /></p>
+<hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayush-kachhwaha&show_icons=true&locale=en" alt="aayush-kachhwaha" /></p>
+<hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-kachhwaha&" alt="aayush-kachhwaha" /></p>
+<hr>
 
 ## 📈 GitHub Contribution Graph
 
@@ -104,25 +110,22 @@ Here are some ideas to get you started:
 [![aayush kachhwaha github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aayush-kachhwaha&theme=github)](https://github.com/aayush-kachhwaha/github-readme-activity-graph)
 
 <hr>
+<br>
+<div align="center">
+<img src="banner.png" align = "center"/>
+</div>
+<br>
+
+<h3 align="center">
+<img src="github-contribution-grid-snake.svg" align="center" width="90%>
+</h3>
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-
-
-### <p align="center">🎡 Welcome To the World of Coding! </p>
-
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" align="center" width="100%">
-</h3>
-
 <hr>
-
+<p align="center">🎡 Welcome To the World of Coding! </p>
 <h2 align="center">☺𝑻𝒉𝒂𝒏𝒌 𝒚𝒐𝒖 𝒇𝒐𝒓 seeing the profile 😉</h2>
-
 <hr>
  
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
