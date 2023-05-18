@@ -12,8 +12,15 @@
 
 <p align="center">
   <img src = "coding.gif" align = "center" width = "90%" />
-
 </p>
+
+<p align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=aayush-kachhwaha&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+</p>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 <!--
 Here are some ideas to get you started:
