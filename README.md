@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<p align="left">	
+<p align="center">	
 <a href="https://www.linkedin.com/in/aayush-kachhwaha"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush-kachhwaha" height="50" width="50" /></a>          
 <a href="https://instagram.com/aayush_____k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aayush_____k" height="50" width="50" /></a>
 </p>
@@ -94,19 +94,16 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Activity
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayush-kachhwaha&show_icons=true&locale=en&layout=compact" alt="aayush-kachhwaha" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayush-kachhwaha&show_icons=true&locale=en&layout=compact" alt="aayush-kachhwaha" /></p>
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayush-kachhwaha&show_icons=true&locale=en" alt="aayush-kachhwaha" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayush-kachhwaha&show_icons=true&locale=en" alt="aayush-kachhwaha" /></p>
 <hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-kachhwaha&" alt="aayush-kachhwaha" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-kachhwaha&" alt="aayush-kachhwaha" /></p>
 <hr>
 
 ## 📈 GitHub Contribution Graph
-
-<hr>
-
 [![aayush kachhwaha github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aayush-kachhwaha&theme=github)](https://github.com/aayush-kachhwaha/github-readme-activity-graph)
 
 <hr>
