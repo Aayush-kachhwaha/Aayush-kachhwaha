@@ -82,6 +82,30 @@ Here are some ideas to get you started:
 </p>
 <!-- Add the the power bi and the cisco packet rtacher img and the icone -->
 
+<<<<<<< Updated upstream
+=======
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayush-kachhwaha&show_icons=true&locale=en&layout=compact" alt="aayush-kachhwaha" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayush-kachhwaha&show_icons=true&locale=en" alt="aayush-kachhwaha" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-kachhwaha&" alt="aayush-kachhwaha" /></p>
+
+<br>
+<div align="center">
+<img src="banner.png" align = "center"/>
+</div>
+<br>
+
+<h3 align="center">
+<img src="github-contribution-grid-snake.svg" align="center" width="90%>
+</h3>
+
+### <p align="center">🎡 Welcome To the World of Coding! </p>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" align="center" width="100%">
+</h3>
+>>>>>>> Stashed changes
 
 <hr>
 <br>
