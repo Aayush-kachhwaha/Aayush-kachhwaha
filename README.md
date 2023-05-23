@@ -81,7 +81,7 @@ Here are some ideas to get you started:
   <img src="https://repository-images.githubusercontent.com/276563985/a4cdbf80-16ae-11eb-9c2d-e97d2a71daf9"  width="50" height ="50" />
 </p>
 <!-- Add the the power bi and the cisco packet rtacher img and the icone -->
-
+<!--
 <<<<<<< Updated upstream
 =======
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayush-kachhwaha&show_icons=true&locale=en&layout=compact" alt="aayush-kachhwaha" /></p>
@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" align="center" width="100%">
 </h3>
 >>>>>>> Stashed changes
-
+-->
 <hr>
 <br>
 <div align="center">
