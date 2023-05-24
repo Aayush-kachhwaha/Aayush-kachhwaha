@@ -112,7 +112,7 @@ Here are some ideas to get you started:
 ## 📈 GitHub Contribution Graph
 [![aayush kachhwaha github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aayush-kachhwaha&theme=github)](https://github.com/aayush-kachhwaha/github-readme-activity-graph)
 
-<p align="center"><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=aayush-kachhwaha&](https://github.com/aayush-kachhwaha/github-readme-activity-graph)" alt="aayush-kachhwaha" /></p>
+<p align="center"><img align="center" src="https://github.com/aayush-kachhwaha/github-readme-activity-graph)" alt="aayush-kachhwaha" /></p>
 
 <hr>
 <br>
