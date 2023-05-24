@@ -164,3 +164,7 @@ Here are some ideas to get you started:
 </h3>
 >>>>>>> Stashed changes
 need some changes in this for the futher changes for the funcation of the work done
+
+
+
+here is some changes that might be done https://github-readme-streak-stats.herokuapp.com/?user=aayush-kachhwha
