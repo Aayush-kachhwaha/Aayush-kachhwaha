@@ -106,6 +106,9 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" align="center" width="100%">
 </h3>
 >>>>>>> Stashed changes
+need some changes in this for the futher changes for the funcation of the work done
+
+
 -->
 <hr>
 <br>
