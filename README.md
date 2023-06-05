@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
-<!-- 
+<!--
 
 ## 📊 GitHub Activity
 
