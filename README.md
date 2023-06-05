@@ -79,6 +79,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="VSCode logo"  width="50" height ="50" />
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="VSCode logo"  width="50" height ="50" />
   <img src="https://repository-images.githubusercontent.com/276563985/a4cdbf80-16ae-11eb-9c2d-e97d2a71daf9"  width="50" height ="50" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
 </p>
 <!-- Add the the power bi and the cisco packet rtacher img and the icone -->
 <hr>
