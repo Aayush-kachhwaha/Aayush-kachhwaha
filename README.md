@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
-
+/**
 
 ## 📊 GitHub Activity
 
@@ -168,3 +168,4 @@ need some changes in this for the futher changes for the funcation of the work d
 
 
 here is some changes that might be done https://github-readme-streak-stats.herokuapp.com/?user=aayush-kachhwaha&" alt="aayush-kachhwaha" 
+**/
