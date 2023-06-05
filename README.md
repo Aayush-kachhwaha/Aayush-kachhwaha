@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 -🔭 I am currently Pursuing My **B.Tech** in the Computer Science & Engineering 
  
 
-- 🌱 I’m currently learning **Flutter, React Js** From YouTube & Udemy.
+- 🌱 I’m currently learning **React Js** From YouTube & Udemy.
 
 
 - 📫 You can reach me at **aayushk2609@gmail.com**, **aayush.kachhwaha2020@vitbhoal.ac.in**
@@ -100,7 +100,6 @@ Here are some ideas to get you started:
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
-<!--
 
 ## 📊 GitHub Activity
 
@@ -139,7 +138,7 @@ Here are some ideas to get you started:
 <hr>
  <!-- Dowing the stuff and working on the that-->
 
-                  
+<!--                   
                   
                   
 
