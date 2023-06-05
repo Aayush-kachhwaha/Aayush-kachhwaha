@@ -68,31 +68,21 @@ Here are some ideas to get you started:
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> &nbsp;
-</p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>  &nbsp;
-</p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>&nbsp;
-</p>    
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> &nbsp;
-</p>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> &nbsp;
-</p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva logo"  width="50" height ="50" /> &nbsp;
-</p>
- <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode logo"  width="50" height ="50" />&nbsp;
-</p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="VSCode logo"  width="50" height ="50" />&nbsp;
-</p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="VSCode logo"  width="50" height ="50" />&nbsp;
-</p>
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="VSCode logo"  width="50" height ="50" />&nbsp;
-</p>
-  <img src="https://repository-images.githubusercontent.com/276563985/a4cdbf80-16ae-11eb-9c2d-e97d2a71daf9"  width="50" height ="50" />&nbsp;
-</p>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva logo"  width="50" height ="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode logo"  width="50" height ="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="VSCode logo"  width="50" height ="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="VSCode logo"  width="50" height ="50" />
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="VSCode logo"  width="50" height ="50" />
+  <img src="https://repository-images.githubusercontent.com/276563985/a4cdbf80-16ae-11eb-9c2d-e97d2a71daf9"  width="50" height ="50" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>
 </p>
 <!-- Add the the power bi and the cisco packet rtacher img and the icone -->
 <hr>
