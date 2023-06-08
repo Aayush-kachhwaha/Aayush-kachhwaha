@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 -🔭 I am currently Pursuing My **B.Tech** in the Computer Science & Engineering 
  
 
-- 🌱 I’m currently learning **React Js, Node Js, & Firebase** From YouTube & Udemy.
+- 🌱 I’m currently learning **React Js, Node Js, & Firebase** From YouTube, Udemy & other open source platform like W3 Schools, React, Firebase, etc.
 
 
 - 📫 You can reach me at **aayushk2609@gmail.com**, **aayush.kachhwaha2020@vitbhoal.ac.in**
