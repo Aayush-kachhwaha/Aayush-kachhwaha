@@ -111,12 +111,12 @@ Here are some ideas to get you started:
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-kachhwaha&" alt="aayush-kachhwaha" /></p>
 <hr>
 
- <p align="center"> 
-   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayush-kachhwaha" alt="aayush-kachhwaha" />
-   </a> 
- </p>
+## Trophies 🏆
 
- <hr>
+<p align="center">
+  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=aayush-kachhwaha&column=7&theme=gruvbox&no-frame=true"/>
+</p>
+<hr>
 
 ## 📈 GitHub Contribution Graph
 [![aayush kachhwaha github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aayush-kachhwaha&theme=github)](https://github.com/aayush-kachhwaha/github-readme-activity-graph)
