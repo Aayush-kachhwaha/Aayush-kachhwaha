@@ -111,6 +111,13 @@ Here are some ideas to get you started:
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-kachhwaha&" alt="aayush-kachhwaha" /></p>
 <hr>
 
+ <p align="left"> 
+   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayush-kachhwaha" alt="aayush-kachhwaha" />
+   </a> 
+ </p>
+
+ <hr>
+
 ## 📈 GitHub Contribution Graph
 [![aayush kachhwaha github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aayush-kachhwaha&theme=github)](https://github.com/aayush-kachhwaha/github-readme-activity-graph)
 
@@ -171,3 +178,5 @@ need some changes in this for the futher changes for the funcation of the work d
 
 here is some changes that might be done https://github-readme-streak-stats.herokuapp.com/?user=aayush-kachhwaha&" alt="aayush-kachhwaha" 
  -->
+
+
