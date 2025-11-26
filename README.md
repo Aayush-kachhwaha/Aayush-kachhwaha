@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Aayush Kachhwaha</h1>
-<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Cyber Security Enthusiast from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=aayush-kachhwaha&data=followers,repositories,stars,commits">
@@ -102,10 +102,10 @@
   <table>
     <tr>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayush-kachhwaha&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=aayush-kachhwaha&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
       </td>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=aayush-kachhwaha&show_icons=true&locale=en" alt="Stats" />
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aayush-kachhwaha&show_icons=true&locale=en" alt="Stats" />
       </td>
     </tr>
   </table>
