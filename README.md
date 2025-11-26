@@ -34,7 +34,7 @@
 <br>
 
 - 🔭 Completed **B.Tech** in Computer Science & Engineering
-- 🎓 Currently pursuing **M.Tech** in **Cyber Security** from **SPUP Jodhpur**
+- 🎓 Currently pursuing **M.Tech** in **Cyber Security** 
 - 🌱 I’m currently learning **Advanced Cyber Security, Digital Forensics, & Malware Analysis**
 - 📫 You can reach me at **aayushk2609@gmail.com**
 
