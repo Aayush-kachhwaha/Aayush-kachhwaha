@@ -34,8 +34,9 @@
 
 <br>
 
-- 🔭 I am currently Pursuing My **B.Tech** in Computer Science & Engineering
-- 🌱 I’m currently learning **React Js, Node Js, & Firebase**
+- 🔭 Completed **B.Tech** in Computer Science & Engineering
+- 🎓 Currently pursuing **M.Tech** in **Cyber Security** from **SPUP Jodhpur**
+- 🌱 I’m currently learning **Advanced Cyber Security, Digital Forensics, & Malware Analysis**
 - 📫 You can reach me at **aayushk2609@gmail.com**
 
 <h3 align="center">
@@ -46,23 +47,47 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="900px">
-      <h3>Frontend</h3>
+    <td align="center" width="50%">
+      <h3>💻 Web Development</h3>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
-    </td>
-    <td align="center" width="900px">
-      <h3>Backend & Tools</h3>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
+      <br>
+      <img src="https://img.shields.io/badge/API-000000?style=for-the-badge&logo=google-cloud&logoColor=white" alt="API" />
+      <img src="https://img.shields.io/badge/Responsive_Design-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Responsive Web Design" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🛠️ Tools & Platforms</h3>
       <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
+      <br>
+      <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
+      <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+      <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office" />
+      <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Workspace" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🔐 Cyber Security</h3>
+      <img src="https://img.shields.io/badge/Digital_Forensics-0056D2?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Digital Forensics" />
+      <img src="https://img.shields.io/badge/Cyber_Policy-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Cyber Policy" />
+      <img src="https://img.shields.io/badge/OSINT-20232A?style=for-the-badge&logo=tor-browser&logoColor=white" alt="OSINT" />
+      <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Security" />
+      <img src="https://img.shields.io/badge/Crime_Investigations-1C1C1C?style=for-the-badge&logo=sherlock&logoColor=white" alt="Crime Investigations" />
+      <img src="https://img.shields.io/badge/Malware_Analysis-8A2BE2?style=for-the-badge&logo=virus-total&logoColor=white" alt="Malware Analysis" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🛡️ Security Tools</h3>
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+      <img src="https://img.shields.io/badge/OWASP_ZAP-4B5CC4?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+      <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+      <img src="https://img.shields.io/badge/Microsoft_Essentials-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Essentials" />
     </td>
   </tr>
 </table>
