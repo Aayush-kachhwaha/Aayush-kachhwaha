@@ -24,7 +24,7 @@
 </h3>
 
 <p align="center">
-    <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
+
     <a href="https://www.linkedin.com/in/aayush-kachhwaha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://instagram.com/aayush_____k" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
     <br>
@@ -109,8 +109,7 @@
       </td>
     </tr>
   </table>
-  <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-kachhwaha&" alt="Streak" />
+
 </div>
 
 <br>
@@ -132,7 +131,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=aayush-kachhwaha&theme=github" alt="Activity Graph" />
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aayush-kachhwaha&theme=github" alt="Activity Graph" />
 </p>
 
 <br>
