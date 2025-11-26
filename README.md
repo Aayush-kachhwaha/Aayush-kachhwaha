@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **React Js, Node Js, & Firebase** From YouTube, Udemy & other open source platform like W3 Schools, React, Firebase, etc.
 
 
-- 📫 You can reach me at **aayushk2609@gmail.com**, **aayush.kachhwaha2020@vitbhoal.ac.in**
+- 📫 You can reach me at **aayushk2609@gmail.com**
 
 
 </p>
